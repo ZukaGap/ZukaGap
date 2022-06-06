@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <b>✨ Connect with me: </b>
   <a href="https://www.linkedin.com/in/zurabi-gaprindashvili-0b3388187/">
     <img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zurabi-gaprindashvili-0b3388187/" />
   </a>
